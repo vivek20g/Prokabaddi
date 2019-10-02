@@ -49,6 +49,7 @@ Get the League Winner.
 8. For predicting the Successful raid percentage, filtered the raiders & all rounders from players stats and created the data frame with success raid/tackle percentage between 0-95 (A few observations have 100 percent but they are one match-winders)
 9. Dataset from season 1 to 6 will be used to train the model. Dataset for season 7 will be used to predict the highest SUCCESSFUL RAID/TACKLE percentage.
 10. This is a Regression problem as the output is a continuous variable - successful raid/tackle percentage. Use various ML algorithms (Ridge, DecisionTreeRegressor, RandomForestRegressor, KNeighborsRegressor) and check the r2 score and MAE (mean absolute error) for each of those. Pick the model with highest r2 score or lowest MAE. Although tuning was not attempted. All of these were run with default parameters. Good r2_score was achieved with the dataset.
+Linear Regression was not able to provide satisfactory results and so was ruled out. 
 11. Season 7 stats (till date) for players was used to make prediction for Player for Highest SUCCESSFUL RAID percentage & Highest SUCCESSFUL TACKLE percentage respectively.
     ##### Player with the highest SUCCESSFUL RAID percentage: Naveen Kumar
     ##### Player with the highest SUCCESSFUL TACKLE percentage: Vishal Bhardwaj
