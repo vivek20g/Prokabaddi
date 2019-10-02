@@ -1,0 +1,633 @@
+Team_1,Team_2,Team1_Score,Team2_Score,Team1_Raid_Points,Team2_Raid_Points,Team1_Tackle_Points,Team2_Tackle_Points,Team1_AllOut_Points,Team2_AllOut_Points,Team1_Extra_Points,Team2_Extra_Points,Season,Winner
+U Mumba,Jaipur Pink Panthers,45,31,28,25,12,1,4,2,0,0,1,1
+Dabang Delhi,Bengaluru Bulls,28,47,15,23,13,13,0,6,0,0,1,2
+Bengaluru Bulls,Puneri Paltan,40,37,20,20,14,11,4,2,1,1,1,1
+U Mumba,Bengal Warriors,36,25,24,17,9,7,2,0,0,0,1,1
+Puneri Paltan,Dabang Delhi,31,35,22,23,7,10,2,2,0,0,1,2
+U Mumba,Telugu Titans,35,35,23,24,9,7,2,4,0,0,1,0
+U Mumba,Patna Pirates,36,33,22,23,9,7,4,2,0,0,1,1
+Bengal Warriors,Bengaluru Bulls,30,46,19,25,11,15,0,6,0,0,1,2
+Jaipur Pink Panthers,Telugu Titans,46,32,29,24,12,4,4,2,1,1,1,1
+Bengal Warriors,Dabang Delhi,42,40,25,26,11,9,4,4,0,0,1,1
+Telugu Titans,Patna Pirates,35,38,27,27,6,4,2,2,0,1,1,2
+Bengal Warriors,Puneri Paltan,38,35,26,22,9,8,2,4,0,0,1,1
+Patna Pirates,Jaipur Pink Panthers,18,40,14,24,4,7,0,4,0,0,1,2
+Bengal Warriors,U Mumba,29,38,22,26,6,8,0,4,0,0,1,2
+Dabang Delhi,Telugu Titans,35,39,21,22,11,9,2,2,0,3,1,2
+Puneri Paltan,Bengaluru Bulls,33,31,18,21,11,7,2,2,0,0,1,1
+U Mumba,Puneri Paltan,44,28,26,18,9,5,6,2,0,0,1,1
+Dabang Delhi,Patna Pirates,31,36,26,20,4,9,0,4,0,0,1,2
+Bengaluru Bulls,U Mumba,34,45,22,22,10,13,0,6,0,2,1,2
+Dabang Delhi,Jaipur Pink Panthers,31,40,17,18,10,14,2,4,0,0,1,2
+Dabang Delhi,Bengal Warriors,46,36,26,26,13,5,6,4,0,0,1,1
+Patna Pirates,Puneri Paltan,35,27,25,22,4,4,0,0,5,0,1,1
+Bengal Warriors,Telugu Titans,40,35,29,26,8,6,2,2,0,0,1,1
+Patna Pirates,U Mumba,37,37,22,21,13,14,2,2,0,0,1,0
+Telugu Titans,Jaipur Pink Panthers,29,49,20,30,6,11,2,4,1,3,1,2
+Patna Pirates,Dabang Delhi,30,30,21,23,7,3,2,2,0,0,1,0
+Jaipur Pink Panthers,Bengal Warriors,39,23,19,15,13,7,4,0,0,1,1,1
+Patna Pirates,Bengaluru Bulls,35,37,25,22,6,7,2,4,0,0,1,2
+Puneri Paltan,Telugu Titans,36,42,25,29,7,8,2,4,0,0,1,2
+U Mumba,Bengaluru Bulls,30,33,18,20,9,8,0,2,0,2,1,2
+Puneri Paltan,Bengal Warriors,40,30,19,19,14,7,4,2,1,1,1,1
+Bengaluru Bulls,Dabang Delhi,27,29,15,12,9,11,2,2,0,0,1,2
+Puneri Paltan,Jaipur Pink Panthers,23,50,16,26,6,16,0,6,0,0,1,2
+Dabang Delhi,U Mumba,36,27,19,18,11,4,4,0,0,0,1,1
+Puneri Paltan,Patna Pirates,31,37,20,23,6,7,2,4,1,0,1,2
+Telugu Titans,Bengaluru Bulls,28,28,18,19,8,9,2,0,0,0,1,0
+Bengal Warriors,Jaipur Pink Panthers,33,41,20,25,8,12,2,2,1,2,1,2
+Jaipur Pink Panthers,Patna Pirates,30,52,22,25,6,17,0,8,0,1,1,2
+Telugu Titans,U Mumba,44,43,33,33,3,6,6,2,0,1,1,1
+Patna Pirates,Bengal Warriors,28,30,19,18,8,9,0,2,0,0,1,2
+Telugu Titans,Puneri Paltan,60,24,35,22,14,1,8,0,1,0,1,1
+Telugu Titans,Dabang Delhi,45,26,26,20,10,6,6,0,0,0,1,1
+Jaipur Pink Panthers,Bengaluru Bulls,36,31,21,15,10,12,4,2,0,0,1,1
+Bengal Warriors,Patna Pirates,32,36,20,20,8,11,0,4,0,1,1,2
+Jaipur Pink Panthers,U Mumba,31,31,18,20,10,9,2,2,0,0,1,0
+Telugu Titans,Bengal Warriors,34,34,20,16,8,14,4,4,1,0,1,0
+Jaipur Pink Panthers,Dabang Delhi,41,31,22,19,10,9,6,2,1,0,1,1
+Patna Pirates,Telugu Titans,29,32,16,19,8,5,2,4,0,0,1,2
+Jaipur Pink Panthers,Puneri Paltan,33,27,15,8,11,11,4,2,0,0,1,1
+Bengaluru Bulls,Bengal Warriors,37,24,14,11,14,12,4,0,1,0,1,1
+U Mumba,Dabang Delhi,37,30,19,14,14,11,4,4,0,0,1,1
+Dabang Delhi,Puneri Paltan,45,22,24,18,13,3,6,0,1,1,1,1
+Bengaluru Bulls,Patna Pirates,31,33,20,18,6,12,2,2,0,1,1,2
+Bengaluru Bulls,Telugu Titans,27,26,12,13,12,10,2,2,0,0,1,1
+Puneri Paltan,U Mumba,35,36,19,21,13,13,2,2,1,0,1,2
+Bengaluru Bulls,Jaipur Pink Panthers,30,29,22,17,6,10,2,2,0,0,1,1
+Jaipur Pink Panthers,Patna Pirates,38,18,16,10,14,7,6,0,0,0,1,1
+U Mumba,Bengaluru Bulls,27,23,9,11,15,9,2,2,0,0,1,1
+Patna Pirates,Bengaluru Bulls,29,22,8,10,18,12,2,0,1,0,1,1
+Jaipur Pink Panthers,U Mumba,35,24,17,17,13,4,4,0,0,1,1,1
+U Mumba,Jaipur Pink Panthers,29,28,10,7,16,15,0,2,3,4,2,1
+Bengaluru Bulls,Bengal Warriors,33,25,16,9,10,11,4,2,3,3,2,1
+Telugu Titans,Dabang Delhi,36,27,21,16,10,9,4,0,1,2,2,1
+U Mumba,Bengaluru Bulls,36,23,21,14,11,7,4,2,0,0,2,1
+Puneri Paltan,Telugu Titans,24,45,14,24,7,14,0,6,3,1,2,2
+U Mumba,Patna Pirates,25,20,16,14,7,5,2,0,0,1,2,1
+U Mumba,Puneri Paltan,28,21,17,15,9,3,2,2,0,1,2,1
+Bengal Warriors,Jaipur Pink Panthers,28,26,12,15,13,6,2,2,1,3,2,1
+Bengaluru Bulls,Patna Pirates,31,26,13,16,12,8,4,2,2,0,2,1
+Bengal Warriors,Telugu Titans,30,32,20,21,7,8,2,2,1,1,2,2
+Dabang Delhi,Puneri Paltan,38,37,24,25,7,4,4,4,3,4,2,1
+Bengal Warriors,U Mumba,25,29,8,13,15,12,2,2,0,2,2,2
+Bengaluru Bulls,Puneri Paltan,31,26,18,15,7,7,2,2,4,2,2,1
+Bengal Warriors,Dabang Delhi,21,32,8,12,11,13,0,4,2,3,2,2
+Jaipur Pink Panthers,Patna Pirates,23,29,15,14,7,11,0,2,1,2,2,2
+Telugu Titans,U Mumba,26,27,13,14,11,11,2,2,0,0,2,2
+Dabang Delhi,Bengaluru Bulls,18,33,10,14,7,14,0,4,1,1,2,2
+Jaipur Pink Panthers,Telugu Titans,22,33,16,18,4,11,0,4,2,0,2,2
+Jaipur Pink Panthers,Bengaluru Bulls,36,23,16,9,15,8,4,2,1,4,2,1
+Puneri Paltan,Bengal Warriors,33,29,14,16,11,7,4,2,4,4,2,1
+Jaipur Pink Panthers,Dabang Delhi,27,35,14,13,9,17,0,4,4,1,2,2
+Patna Pirates,Telugu Titans,22,34,10,19,12,11,0,4,0,0,2,2
+Telugu Titans,Bengaluru Bulls,21,35,13,13,6,14,0,4,2,4,2,2
+Patna Pirates,Dabang Delhi,39,22,17,15,15,5,4,0,3,2,2,1
+Dabang Delhi,U Mumba,22,27,9,12,13,11,0,2,0,2,2,2
+Patna Pirates,Puneri Paltan,32,28,18,17,11,8,2,2,1,1,2,1
+Puneri Paltan,Jaipur Pink Panthers,29,35,20,20,7,11,0,2,2,2,2,2
+Patna Pirates,Bengal Warriors,20,20,9,10,10,7,0,0,1,3,2,0
+Telugu Titans,Jaipur Pink Panthers,39,39,26,26,11,6,2,4,0,3,2,0
+U Mumba,Dabang Delhi,29,25,14,11,12,11,2,2,1,1,2,1
+Telugu Titans,Bengal Warriors,44,28,22,21,16,4,4,0,2,3,2,1
+Bengal Warriors,Bengaluru Bulls,22,33,10,18,10,10,0,4,2,1,2,2
+Telugu Titans,Patna Pirates,54,32,29,21,15,6,8,2,2,3,2,1
+Jaipur Pink Panthers,U Mumba,35,25,12,10,16,14,2,0,5,1,2,1
+Telugu Titans,Puneri Paltan,29,29,18,16,9,10,2,2,0,1,2,0
+Dabang Delhi,Bengal Warriors,17,20,7,8,9,12,0,0,1,0,2,2
+Patna Pirates,Bengaluru Bulls,30,28,11,16,16,5,2,2,1,5,2,1
+U Mumba,Bengal Warriors,31,17,16,9,8,5,4,2,3,1,2,1
+Dabang Delhi,Patna Pirates,45,26,23,16,15,7,6,0,1,3,2,1
+Dabang Delhi,Jaipur Pink Panthers,21,51,12,28,8,12,0,10,1,1,2,2
+Jaipur Pink Panthers,Puneri Paltan,31,18,15,11,12,6,4,0,0,1,2,1
+Dabang Delhi,Telugu Titans,45,45,34,35,7,9,4,0,0,1,2,0
+Bengaluru Bulls,U Mumba,29,36,16,12,10,19,0,4,3,1,2,2
+Bengal Warriors,Puneri Paltan,31,28,14,11,10,12,2,0,5,5,2,1
+Bengaluru Bulls,Jaipur Pink Panthers,25,27,12,11,7,13,2,2,4,1,2,2
+Bengal Warriors,Patna Pirates,32,34,20,21,9,10,2,2,1,1,2,2
+Bengaluru Bulls,Dabang Delhi,40,21,20,15,14,6,6,0,0,0,2,1
+Patna Pirates,U Mumba,27,32,13,15,11,12,2,4,1,1,2,2
+Bengaluru Bulls,Telugu Titans,43,29,18,18,15,9,6,2,4,0,2,1
+Puneri Paltan,Dabang Delhi,33,28,18,16,11,9,4,2,0,1,2,1
+Jaipur Pink Panthers,Bengal Warriors,38,39,25,19,4,16,2,4,7,0,2,2
+Puneri Paltan,U Mumba,34,39,18,18,11,16,2,4,3,1,2,2
+U Mumba,Telugu Titans,25,46,19,27,6,12,0,6,0,1,2,2
+Puneri Paltan,Patna Pirates,21,38,9,14,10,13,0,6,2,5,2,2
+Patna Pirates,Jaipur Pink Panthers,26,24,10,12,13,12,2,0,1,0,2,1
+Puneri Paltan,Bengaluru Bulls,30,31,20,16,8,9,2,2,0,4,2,2
+Telugu Titans,Bengaluru Bulls,38,39,21,20,15,13,2,4,0,2,2,2
+U Mumba,Patna Pirates,35,18,13,9,18,8,4,0,0,1,2,1
+Patna Pirates,Telugu Titans,26,34,15,19,10,7,0,4,1,4,2,2
+U Mumba,Bengaluru Bulls,36,30,17,18,14,10,4,2,1,0,2,1
+Telugu Titans,U Mumba,25,27,16,15,6,7,2,2,1,3,3,2
+Dabang Delhi,Bengaluru Bulls,29,35,19,18,5,11,2,4,3,2,3,2
+Jaipur Pink Panthers,U Mumba,27,18,10,9,12,9,2,0,3,0,3,1
+Telugu Titans,Puneri Paltan,27,26,13,11,10,11,0,2,4,2,3,1
+Patna Pirates,Jaipur Pink Panthers,29,28,14,16,13,9,2,0,0,3,3,1
+Telugu Titans,Dabang Delhi,45,34,26,27,14,4,4,2,1,1,3,1
+Telugu Titans,Bengal Warriors,17,25,9,11,7,10,0,2,1,2,3,2
+Bengaluru Bulls,Patna Pirates,24,33,17,18,5,11,0,2,2,2,3,2
+Dabang Delhi,Puneri Paltan,20,38,13,20,6,13,0,4,1,1,3,2
+Bengaluru Bulls,Bengal Warriors,24,34,12,18,9,10,2,4,1,2,3,2
+Dabang Delhi,U Mumba,17,30,7,13,9,11,0,4,1,2,3,2
+Bengaluru Bulls,Jaipur Pink Panthers,36,26,16,18,13,4,6,2,1,2,3,1
+U Mumba,Patna Pirates,26,40,16,18,7,14,0,4,3,4,3,2
+Bengaluru Bulls,Telugu Titans,26,35,16,16,6,13,0,2,4,4,3,2
+Bengal Warriors,Puneri Paltan,33,28,18,14,9,9,4,2,2,3,3,1
+Jaipur Pink Panthers,Dabang Delhi,39,34,22,20,8,11,4,2,5,1,3,1
+Patna Pirates,Telugu Titans,29,25,16,20,9,4,2,0,2,1,3,1
+Bengal Warriors,Dabang Delhi,34,17,16,10,9,6,4,0,5,1,3,1
+Bengal Warriors,Patna Pirates,31,36,18,23,11,9,0,4,2,0,3,2
+U Mumba,Bengaluru Bulls,29,28,13,13,12,9,2,4,2,2,3,1
+Bengal Warriors,Jaipur Pink Panthers,34,20,17,12,10,5,4,0,3,3,3,1
+Puneri Paltan,Patna Pirates,30,30,16,17,10,9,2,2,2,2,3,0
+Patna Pirates,Dabang Delhi,47,34,25,25,12,5,6,2,4,2,3,1
+Puneri Paltan,Jaipur Pink Panthers,32,32,21,21,8,7,2,2,1,2,3,0
+Jaipur Pink Panthers,Telugu Titans,25,27,13,14,11,10,0,2,1,1,3,2
+Puneri Paltan,U Mumba,27,29,14,15,8,10,2,2,3,2,3,2
+U Mumba,Bengal Warriors,32,21,15,16,10,4,4,0,3,1,3,1
+Puneri Paltan,Bengaluru Bulls,29,27,17,17,10,6,2,2,0,2,3,1
+Patna Pirates,Bengal Warriors,32,27,17,15,10,8,2,2,3,2,3,1
+Telugu Titans,Jaipur Pink Panthers,26,35,0,0,0,0,0,0,0,0,3,2
+Patna Pirates,Bengaluru Bulls,36,32,24,21,9,5,2,4,1,2,3,1
+Bengaluru Bulls,Dabang Delhi,21,35,11,15,7,14,0,4,3,2,3,2
+Patna Pirates,Puneri Paltan,28,28,15,14,10,11,2,2,1,1,3,0
+Bengal Warriors,Telugu Titans,32,28,0,0,0,0,0,0,0,0,3,1
+Patna Pirates,U Mumba,28,34,16,15,8,13,2,4,2,2,3,2
+Jaipur Pink Panthers,Bengaluru Bulls,30,21,15,13,9,7,4,0,2,1,3,1
+Puneri Paltan,Dabang Delhi,32,22,13,9,15,10,4,0,0,3,3,1
+Telugu Titans,Bengaluru Bulls,40,22,0,0,0,0,0,0,0,0,3,1
+Jaipur Pink Panthers,Puneri Paltan,18,33,13,10,3,17,0,4,2,2,3,2
+Jaipur Pink Panthers,Bengal Warriors,18,34,5,15,10,14,0,4,3,1,3,2
+Bengal Warriors,U Mumba,17,30,5,12,10,12,0,4,2,2,3,2
+Jaipur Pink Panthers,Patna Pirates,24,47,13,23,7,14,2,8,2,2,3,2
+Dabang Delhi,Telugu Titans,36,44,0,0,0,0,0,0,0,0,3,2
+Bengaluru Bulls,U Mumba,18,39,10,18,5,14,0,6,3,1,3,2
+Dabang Delhi,Patna Pirates,34,67,25,34,7,20,0,10,2,3,3,2
+Puneri Paltan,Telugu Titans,41,24,0,0,0,0,0,0,0,0,3,1
+Dabang Delhi,Jaipur Pink Panthers,21,21,8,10,11,11,2,0,0,0,3,0
+Bengaluru Bulls,Puneri Paltan,27,44,17,25,7,10,2,6,1,3,3,2
+Dabang Delhi,Bengal Warriors,31,37,22,28,5,6,2,2,2,1,3,2
+U Mumba,Jaipur Pink Panthers,35,21,18,11,10,7,6,2,1,1,3,1
+Telugu Titans,Patna Pirates,42,41,0,0,0,0,0,0,0,0,3,1
+U Mumba,Puneri Paltan,30,27,19,11,9,14,2,2,0,0,3,1
+Bengal Warriors,Bengaluru Bulls,26,22,15,10,11,8,0,0,0,4,3,1
+U Mumba,Telugu Titans,38,22,0,0,0,0,0,0,0,0,3,1
+Puneri Paltan,Bengal Warriors,43,19,24,11,13,7,6,0,0,1,3,1
+U Mumba,Dabang Delhi,36,20,21,9,10,9,4,0,1,2,3,1
+Patna Pirates,Puneri Paltan,40,21,18,11,15,8,6,2,1,0,3,1
+U Mumba,Bengal Warriors,41,29,0,0,0,0,0,0,0,0,3,1
+Bengal Warriors,Puneri Paltan,27,31,0,0,0,0,0,0,0,0,3,2
+U Mumba,Patna Pirates,28,31,14,16,11,12,2,2,1,1,3,2
+Puneri Paltan,Telugu Titans,28,24,8,9,2,3,0,10,2,3,4,1
+U Mumba,Jaipur Pink Panthers,36,34,17,19,8,7,4,4,7,4,4,1
+Bengaluru Bulls,Bengal Warriors,24,23,11,12,9,7,2,2,2,2,4,1
+Puneri Paltan,U Mumba,41,19,22,14,10,4,6,0,3,1,4,1
+Bengal Warriors,Dabang Delhi,31,23,14,13,10,8,4,0,3,2,4,1
+Puneri Paltan,Patna Pirates,24,30,17,16,7,10,0,4,0,0,4,2
+Puneri Paltan,Dabang Delhi,27,27,18,14,7,10,2,2,0,1,4,0
+Jaipur Pink Panthers,Telugu Titans,28,24,11,12,10,9,2,0,5,3,4,1
+U Mumba,Patna Pirates,34,36,19,21,11,10,2,4,2,1,4,2
+Jaipur Pink Panthers,Bengaluru Bulls,28,28,18,13,7,9,2,4,1,2,4,0
+U Mumba,Dabang Delhi,27,25,14,13,10,10,2,2,1,0,4,1
+Jaipur Pink Panthers,Bengal Warriors,36,33,24,21,9,8,2,2,1,2,4,1
+Dabang Delhi,Bengaluru Bulls,32,24,11,14,16,9,4,0,1,1,4,1
+Jaipur Pink Panthers,Puneri Paltan,28,33,22,16,6,13,0,4,0,0,4,2
+Telugu Titans,Patna Pirates,33,35,19,23,9,9,4,2,1,1,4,2
+Bengal Warriors,U Mumba,18,26,8,11,6,13,0,2,4,0,4,2
+Bengaluru Bulls,Puneri Paltan,29,27,14,13,14,10,0,2,1,2,4,1
+Telugu Titans,Bengal Warriors,35,18,18,9,13,6,4,0,0,3,4,1
+Telugu Titans,Bengaluru Bulls,28,30,20,18,4,8,2,2,2,2,4,2
+Dabang Delhi,Jaipur Pink Panthers,26,51,21,27,4,14,0,8,1,2,4,2
+Telugu Titans,U Mumba,35,30,19,22,11,6,4,2,1,0,4,1
+Patna Pirates,Bengaluru Bulls,31,25,18,15,10,9,2,0,1,1,4,1
+Bengaluru Bulls,U Mumba,23,24,13,14,8,7,2,2,0,1,4,2
+Patna Pirates,Bengal Warriors,35,21,17,13,15,8,2,0,1,0,4,1
+Bengal Warriors,Puneri Paltan,31,38,16,20,9,10,2,4,4,4,4,2
+Patna Pirates,Dabang Delhi,15,33,9,11,6,13,0,4,0,5,4,2
+Dabang Delhi,Telugu Titans,23,28,10,12,11,11,0,2,2,3,4,2
+Patna Pirates,Jaipur Pink Panthers,21,26,9,8,11,17,0,0,1,1,4,2
+Bengaluru Bulls,Telugu Titans,24,32,17,14,6,13,0,4,1,1,4,2
+Puneri Paltan,Bengal Warriors,34,34,21,12,7,18,2,2,4,2,4,0
+Bengaluru Bulls,Jaipur Pink Panthers,22,24,13,12,6,9,2,2,1,1,4,2
+Jaipur Pink Panthers,U Mumba,23,29,14,16,6,10,0,2,3,1,4,2
+Bengaluru Bulls,Patna Pirates,23,38,11,14,11,17,0,6,1,1,4,2
+Telugu Titans,Puneri Paltan,32,29,15,16,13,8,2,2,2,3,4,1
+Bengaluru Bulls,Dabang Delhi,20,40,17,21,3,10,0,6,0,3,4,2
+Bengal Warriors,Jaipur Pink Panthers,32,25,19,18,11,5,2,0,0,2,4,1
+Patna Pirates,U Mumba,34,24,13,14,16,9,4,0,1,1,4,1
+Puneri Paltan,Jaipur Pink Panthers,27,33,19,18,6,8,0,4,2,3,4,2
+Bengal Warriors,Patna Pirates,27,33,16,17,9,11,0,2,2,3,4,2
+Bengal Warriors,Telugu Titans,34,34,19,22,10,8,2,2,3,2,4,0
+Telugu Titans,Dabang Delhi,36,28,18,16,13,7,2,2,3,3,4,1
+Bengal Warriors,Bengaluru Bulls,25,27,13,17,8,9,2,0,2,1,4,2
+U Mumba,Puneri Paltan,34,31,18,19,10,8,4,2,2,2,4,1
+Jaipur Pink Panthers,Dabang Delhi,24,22,14,14,7,7,2,0,1,1,4,1
+U Mumba,Telugu Titans,25,25,14,13,9,8,2,2,0,2,4,0
+Jaipur Pink Panthers,Patna Pirates,29,22,13,16,9,3,4,0,3,3,4,1
+U Mumba,Bengal Warriors,27,31,19,15,3,11,2,4,3,1,4,2
+Patna Pirates,Puneri Paltan,31,28,17,17,10,9,4,2,0,0,4,1
+U Mumba,Bengaluru Bulls,27,28,14,10,10,11,2,4,1,3,4,2
+Dabang Delhi,Bengal Warriors,41,20,22,15,11,4,6,0,2,1,4,1
+Telugu Titans,Jaipur Pink Panthers,35,23,16,15,11,7,4,0,4,1,4,1
+Dabang Delhi,Patna Pirates,31,32,20,18,10,9,0,2,1,3,4,2
+Patna Pirates,Telugu Titans,25,46,16,23,9,17,0,6,0,0,4,2
+Dabang Delhi,Puneri Paltan,34,39,21,24,11,5,0,4,2,6,4,2
+Puneri Paltan,Bengaluru Bulls,36,33,17,18,13,12,4,2,2,1,4,1
+Dabang Delhi,U Mumba,34,38,19,21,8,11,4,4,3,2,4,2
+Patna Pirates,Puneri Paltan,37,33,20,17,14,12,2,2,1,2,4,1
+Telugu Titans,Jaipur Pink Panthers,24,34,18,16,4,11,0,4,2,3,4,2
+Telugu Titans,Puneri Paltan,35,40,21,23,6,10,4,4,4,3,4,2
+Patna Pirates,Jaipur Pink Panthers,37,29,20,21,12,4,4,0,1,4,4,1
+Telugu Titans,Tamil Thalaivas,32,27,19,16,11,9,2,0,0,2,5,1
+U Mumba,Puneri Paltan,21,33,11,12,7,15,0,4,3,2,5,2
+Jaipur Pink Panthers,Dabang Delhi,26,30,15,13,4,12,2,4,5,1,5,2
+Telugu Titans,Patna Pirates,29,35,18,22,8,10,2,2,1,1,5,2
+U Mumba,Haryana Steelers,29,28,16,16,11,9,2,2,0,1,5,1
+Telugu Titans,Bengaluru Bulls,21,31,15,17,4,10,0,4,2,0,5,2
+Gujarat Fortune Giants,Dabang Delhi,26,20,10,11,9,5,4,2,3,2,5,1
+Telugu Titans,UP Yoddha,18,31,13,17,4,11,0,2,1,1,5,2
+Gujarat Fortune Giants,Haryana Steelers,27,27,14,16,9,9,2,2,2,0,5,0
+Telugu Titans,Bengal Warriors,24,30,16,19,7,6,0,2,1,3,5,2
+Telugu Titans,Patna Pirates,36,43,20,22,10,13,2,4,4,4,5,2
+Bengaluru Bulls,Tamil Thalaivas,32,31,15,16,13,8,4,4,0,3,5,1
+Puneri Paltan,Dabang Delhi,26,21,14,11,8,6,2,0,2,4,5,1
+U Mumba,Dabang Delhi,36,22,15,10,15,7,4,0,2,5,5,1
+Bengaluru Bulls,UP Yoddha,27,32,17,18,4,9,2,2,4,3,5,2
+Bengal Warriors,UP Yoddha,40,20,22,13,9,4,6,0,3,3,5,1
+Bengaluru Bulls,Patna Pirates,32,46,22,24,5,12,0,8,5,2,5,2
+Gujarat Fortune Giants,Haryana Steelers,20,32,10,10,9,16,0,2,1,4,5,2
+Bengaluru Bulls,Telugu Titans,21,21,10,14,7,6,2,0,2,1,5,0
+Bengaluru Bulls,Bengal Warriors,31,25,14,15,12,8,2,2,3,0,5,1
+Puneri Paltan,Jaipur Pink Panthers,28,30,18,12,8,12,0,2,2,4,5,2
+Bengaluru Bulls,Tamil Thalaivas,24,29,15,16,6,10,2,2,1,1,5,2
+Gujarat Fortune Giants,U Mumba,39,21,19,13,13,5,6,0,1,3,5,1
+Telugu Titans,UP Yoddha,32,39,19,22,9,11,2,2,2,4,5,2
+Gujarat Fortune Giants,Dabang Delhi,29,25,17,12,7,8,2,2,3,3,5,1
+Patna Pirates,UP Yoddha,27,27,18,16,6,9,0,0,3,2,5,0
+Gujarat Fortune Giants,Jaipur Pink Panthers,27,20,8,9,13,6,2,0,4,5,5,1
+Bengal Warriors,Puneri Paltan,17,34,10,15,6,10,0,4,1,5,5,2
+Gujarat Fortune Giants,Bengaluru Bulls,27,24,13,10,11,11,2,2,1,1,5,1
+Haryana Steelers,Tamil Thalaivas,25,25,12,12,10,10,0,2,3,1,5,0
+Gujarat Fortune Giants,Telugu Titans,29,19,17,12,9,5,2,0,1,2,5,1
+Dabang Delhi,Tamil Thalaivas,30,29,24,15,6,11,0,2,0,1,5,1
+Gujarat Fortune Giants,Bengal Warriors,26,26,21,17,3,5,2,2,0,2,5,0
+UP Yoddha,U Mumba,34,37,23,25,6,8,4,4,1,0,5,2
+Bengaluru Bulls,Jaipur Pink Panthers,28,30,15,13,8,10,4,4,1,3,5,2
+Telugu Titans,U Mumba,37,32,18,18,14,9,4,2,1,3,5,1
+UP Yoddha,Haryana Steelers,29,36,11,15,14,14,0,4,4,3,5,2
+Patna Pirates,Puneri Paltan,42,47,31,29,6,12,4,4,1,2,5,2
+UP Yoddha,Jaipur Pink Panthers,22,24,12,12,7,8,0,2,3,2,5,2
+Gujarat Fortune Giants,Puneri Paltan,35,21,13,11,17,10,4,0,1,0,5,1
+UP Yoddha,Bengal Warriors,31,32,20,17,10,10,0,2,1,3,5,2
+Haryana Steelers,Dabang Delhi,27,25,16,14,8,9,2,2,1,0,5,1
+UP Yoddha,Tamil Thalaivas,33,33,19,16,10,14,2,2,2,1,5,0
+UP Yoddha,Telugu Titans,25,23,13,10,10,12,0,0,2,1,5,1
+U Mumba,Jaipur Pink Panthers,36,39,17,19,13,11,2,6,4,3,5,2
+Bengal Warriors,Patna Pirates,36,36,22,18,11,13,2,4,1,1,5,0
+Patna Pirates,Tamil Thalaivas,35,24,18,14,13,9,4,0,0,1,5,1
+U Mumba,Puneri Paltan,24,26,13,14,8,8,2,2,1,2,5,2
+Bengal Warriors,Bengaluru Bulls,32,26,17,15,11,10,2,0,2,1,5,1
+U Mumba,Dabang Delhi,32,33,26,19,5,10,0,4,1,0,5,2
+U Mumba,Haryana Steelers,38,32,21,21,14,7,2,2,1,2,5,1
+Telugu Titans,Tamil Thalaivas,33,28,12,16,16,8,2,2,3,2,5,1
+U Mumba,Jaipur Pink Panthers,36,32,25,18,7,5,2,4,2,5,5,1
+Bengal Warriors,Patna Pirates,41,38,27,23,9,9,2,4,3,2,5,1
+Gujarat Fortune Giants,Haryana Steelers,36,42,24,25,8,11,2,4,2,2,5,2
+Bengal Warriors,UP Yoddha,26,26,15,19,9,5,2,0,0,2,5,0
+Gujarat Fortune Giants,Jaipur Pink Panthers,25,31,14,12,9,11,0,4,2,4,5,2
+Bengal Warriors,Tamil Thalaivas,29,25,15,13,9,10,2,2,3,0,5,1
+Patna Pirates,Jaipur Pink Panthers,47,21,30,15,8,5,8,0,1,1,5,1
+Bengal Warriors,Haryana Steelers,29,36,22,20,5,8,2,4,0,4,5,2
+Dabang Delhi,Bengaluru Bulls,38,30,26,22,6,5,4,2,2,1,5,1
+Bengal Warriors,U Mumba,31,37,19,22,5,11,2,4,5,0,5,2
+Telugu Titans,Puneri Paltan,37,42,20,18,10,15,4,6,3,3,5,2
+Bengal Warriors,Dabang Delhi,31,31,18,22,8,6,4,2,1,1,5,0
+Haryana Steelers,Patna Pirates,41,41,23,26,13,11,4,4,1,0,5,0
+Gujarat Fortune Giants,UP Yoddha,30,30,12,15,11,13,4,2,3,0,5,0
+Patna Pirates,U Mumba,41,51,31,34,6,10,2,6,2,1,5,2
+Haryana Steelers,Bengaluru Bulls,38,31,24,24,9,6,4,0,1,1,5,1
+Bengaluru Bulls,Puneri Paltan,24,20,6,7,15,11,2,0,1,2,5,1
+Haryana Steelers,Telugu Titans,19,37,12,16,4,13,0,4,3,4,5,2
+Bengal Warriors,Telugu Titans,32,31,22,17,5,8,2,4,3,2,5,1
+Haryana Steelers,Dabang Delhi,27,24,14,13,10,6,2,2,1,3,5,1
+Tamil Thalaivas,UP Yoddha,34,33,18,22,10,9,4,2,2,0,5,1
+Haryana Steelers,Puneri Paltan,22,38,14,22,8,8,0,4,0,4,5,2
+Haryana Steelers,Jaipur Pink Panthers,27,27,16,19,9,6,2,2,0,0,5,0
+Patna Pirates,Telugu Titans,46,30,24,17,12,8,8,2,2,3,5,1
+U Mumba,Gujarat Fortune Giants,28,39,17,21,7,13,0,4,4,1,5,2
+Bengaluru Bulls,Telugu Titans,26,26,15,12,9,13,2,0,0,1,5,0
+Patna Pirates,UP Yoddha,45,42,26,27,8,8,6,4,5,3,5,1
+Jaipur Pink Panthers,Dabang Delhi,36,25,17,15,13,9,4,0,2,1,5,1
+Patna Pirates,Bengal Warriors,37,37,23,27,9,7,4,2,1,1,5,0
+Puneri Paltan,Haryana Steelers,37,25,16,16,17,9,4,0,0,0,5,1
+Patna Pirates,Bengaluru Bulls,36,32,22,22,7,5,4,2,3,3,5,1
+U Mumba,Gujarat Fortune Giants,23,45,12,23,11,13,0,6,0,3,5,2
+Patna Pirates,Tamil Thalaivas,41,39,26,27,8,10,4,2,3,0,5,1
+Jaipur Pink Panthers,Haryana Steelers,26,30,17,13,8,15,0,2,1,0,5,2
+Patna Pirates,UP Yoddha,41,46,30,32,6,8,2,4,3,2,5,2
+Dabang Delhi,U Mumba,28,30,15,17,8,8,2,2,3,3,5,2
+Bengaluru Bulls,Bengal Warriors,29,33,15,18,11,12,2,2,1,1,5,2
+Dabang Delhi,Puneri Paltan,29,34,17,19,8,11,2,4,2,0,5,2
+Bengal Warriors,Tamil Thalaivas,32,33,21,14,7,15,2,2,2,2,5,2
+Dabang Delhi,Haryana Steelers,24,42,13,15,9,18,0,6,2,3,5,2
+Gujarat Fortune Giants,Tamil Thalaivas,34,35,20,25,9,8,4,2,1,0,5,2
+Dabang Delhi,Patna Pirates,34,36,15,19,12,11,4,4,3,2,5,2
+Telugu Titans,Jaipur Pink Panthers,41,34,27,25,11,3,2,2,1,4,5,1
+Dabang Delhi,UP Yoddha,16,45,11,25,5,13,0,6,0,1,5,2
+Bengaluru Bulls,U Mumba,30,42,20,23,6,13,0,4,4,2,5,2
+Dabang Delhi,Telugu Titans,22,44,13,26,9,12,0,6,0,0,5,2
+Tamil Thalaivas,Puneri Paltan,20,33,10,12,9,13,0,4,1,4,5,2
+Gujarat Fortune Giants,Patna Pirates,30,29,13,13,14,13,2,0,1,3,5,1
+Puneri Paltan,UP Yoddha,34,33,21,20,9,10,4,2,0,1,5,1
+Tamil Thalaivas,Jaipur Pink Panthers,26,27,15,15,8,8,0,2,3,2,5,2
+Jaipur Pink Panthers,Bengal Warriors,31,32,22,22,7,7,2,2,0,1,5,2
+Tamil Thalaivas,U Mumba,30,33,19,20,7,9,2,2,2,2,5,2
+Dabang Delhi,Gujarat Fortune Giants,22,42,16,25,4,8,0,6,2,3,5,2
+Tamil Thalaivas,Telugu Titans,37,58,28,36,3,11,2,8,4,3,5,2
+U Mumba,Haryana Steelers,30,41,23,24,3,11,0,4,4,2,5,2
+Tamil Thalaivas,UP Yoddha,33,37,25,25,7,6,0,2,1,4,5,2
+Tamil Thalaivas,Bengaluru Bulls,35,45,24,24,7,12,2,6,2,3,5,2
+Jaipur Pink Panthers,Gujarat Fortune Giants,23,29,11,15,8,11,0,2,4,1,5,2
+Puneri Paltan,Bengal Warriors,19,25,8,9,10,13,0,2,1,1,5,2
+Haryana Steelers,Telugu Titans,32,30,25,22,1,5,2,2,4,1,5,1
+Jaipur Pink Panthers,U Mumba,36,32,18,14,12,11,4,2,2,5,5,1
+Gujarat Fortune Giants,Patna Pirates,33,29,13,16,15,10,2,2,3,1,5,1
+Jaipur Pink Panthers,Puneri Paltan,30,38,17,14,7,18,2,4,4,2,5,2
+U Mumba,Tamil Thalaivas,35,38,20,21,11,12,2,2,2,3,5,2
+Jaipur Pink Panthers,Dabang Delhi,34,35,19,17,9,11,2,2,4,5,5,2
+Dabang Delhi,Bengaluru Bulls,32,35,18,23,6,7,2,2,6,3,5,2
+Jaipur Pink Panthers,Haryana Steelers,27,37,15,19,7,13,0,4,5,1,5,2
+Jaipur Pink Panthers,UP Yoddha,32,53,25,32,5,9,0,6,2,6,5,2
+Puneri Paltan,Gujarat Fortune Giants,20,44,11,22,5,15,0,6,4,1,5,2
+Bengal Warriors,Tamil Thalaivas,34,30,20,25,10,5,4,0,0,0,5,1
+Tamil Thalaivas,Patna Pirates,40,37,25,29,11,6,4,2,0,0,5,1
+Puneri Paltan,U Mumba,43,24,23,17,13,6,6,0,1,1,5,1
+Bengaluru Bulls,UP Yoddha,38,32,17,19,15,8,4,2,2,3,5,1
+Puneri Paltan,Dabang Delhi,34,31,23,19,6,9,2,2,3,1,5,1
+Bengaluru Bulls,UP Yoddha,64,24,37,18,16,4,10,0,1,2,5,1
+Puneri Paltan,Haryana Steelers,27,31,16,13,9,12,0,2,2,4,5,2
+Patna Pirates,Bengaluru Bulls,29,29,19,18,10,9,0,2,0,0,5,0
+Puneri Paltan,Jaipur Pink Panthers,38,15,15,8,18,7,4,0,1,0,5,1
+Telugu Titans,Bengal Warriors,37,37,21,20,11,8,4,4,1,5,5,0
+Puneri Paltan,Gujarat Fortune Giants,22,23,8,13,11,9,0,0,3,1,5,2
+Puneri Paltan,UP Yoddha,40,38,18,23,17,8,4,4,1,3,5,1
+Patna Pirates,Haryana Steelers,69,30,44,25,14,3,10,0,1,2,5,1
+Gujarat Fortune Giants,Bengal Warriors,42,17,21,8,14,7,6,0,1,2,5,1
+Puneri Paltan,Patna Pirates,32,42,15,23,11,9,2,6,4,4,5,2
+Bengal Warriors,Patna Pirates,44,47,33,28,6,10,2,6,3,3,5,2
+Gujarat Fortune Giants,Patna Pirates,38,55,27,32,5,13,2,8,4,2,5,2
+Tamil Thalaivas,Patna Pirates,42,26,24,21,11,2,6,2,1,1,6,1
+Puneri Paltan,U Mumba,32,32,21,20,11,9,0,2,0,1,6,0
+Puneri Paltan,Haryana Steelers,34,22,16,11,9,9,4,0,5,2,6,1
+Tamil Thalaivas,UP Yoddha,32,37,22,18,5,10,4,4,1,5,6,2
+Dabang Delhi,Gujarat Fortune Giants,32,32,19,17,10,11,2,2,1,2,6,0
+Tamil Thalaivas,Telugu Titans,28,33,16,16,11,14,0,2,1,1,6,2
+U Mumba,Jaipur Pink Panthers,39,32,22,14,10,10,4,2,3,6,6,1
+Tamil Thalaivas,Bengaluru Bulls,37,48,30,31,5,12,2,4,0,1,6,2
+UP Yoddha,Patna Pirates,41,43,27,26,7,11,4,4,3,2,6,2
+Tamil Thalaivas,Bengal Warriors,27,36,18,18,8,10,0,4,1,4,6,2
+Haryana Steelers,Gujarat Fortune Giants,32,25,13,16,14,9,2,0,3,0,6,1
+Puneri Paltan,Dabang Delhi,36,41,24,23,9,10,2,4,2,4,6,2
+Telugu Titans,UP Yoddha,34,29,17,16,15,11,0,0,2,2,6,1
+Haryana Steelers,U Mumba,26,53,19,29,5,15,0,8,2,1,6,2
+Patna Pirates,UP Yoddha,43,37,29,28,8,6,4,2,2,1,6,1
+Haryana Steelers,Puneri Paltan,27,45,21,20,4,16,0,6,2,3,6,2
+Bengal Warriors,Telugu Titans,30,25,16,10,8,13,2,0,4,2,6,1
+Haryana Steelers,Jaipur Pink Panthers,33,36,22,22,7,11,0,2,4,1,6,2
+Bengaluru Bulls,Tamil Thalaivas,44,35,26,22,12,10,4,2,2,1,6,1
+Haryana Steelers,U Mumba,32,42,22,27,9,11,0,4,1,0,6,2
+Haryana Steelers,Dabang Delhi,34,31,19,21,12,10,2,0,1,0,6,1
+Puneri Paltan,Gujarat Fortune Giants,28,34,17,18,8,11,0,2,3,3,6,2
+Patna Pirates,Telugu Titans,31,35,19,15,8,15,2,2,2,3,6,2
+Puneri Paltan,Jaipur Pink Panthers,29,25,9,9,18,14,0,2,2,0,6,1
+UP Yoddha,Bengal Warriors,40,40,25,25,8,12,2,2,5,1,6,0
+Puneri Paltan,U Mumba,33,32,19,21,8,8,2,2,4,1,6,1
+Dabang Delhi,Bengal Warriors,39,30,18,25,11,2,4,0,6,3,6,1
+Puneri Paltan,Bengaluru Bulls,27,25,12,13,10,10,0,2,5,0,6,1
+U Mumba,Telugu Titans,41,20,22,13,12,6,6,0,1,1,6,1
+Puneri Paltan,Tamil Thalaivas,31,36,21,23,7,9,0,4,3,0,6,2
+Bengaluru Bulls,Haryana Steelers,42,34,29,28,7,4,4,0,2,2,6,1
+Puneri Paltan,UP Yoddha,23,29,14,18,5,10,0,0,4,1,6,2
+Patna Pirates,Jaipur Pink Panthers,41,30,22,22,14,8,4,0,1,0,6,1
+Gujarat Fortune Giants,Tamil Thalaivas,36,25,21,18,13,7,2,0,0,0,6,1
+Jaipur Pink Panthers,Bengal Warriors,28,39,20,22,7,12,0,4,1,1,6,2
+Patna Pirates,U Mumba,39,40,23,26,7,12,4,0,5,2,6,2
+Dabang Delhi,UP Yoddha,36,38,24,25,8,9,2,4,2,0,6,2
+Patna Pirates,Haryana Steelers,32,43,23,21,8,15,0,4,1,3,6,2
+Puneri Paltan,Gujarat Fortune Giants,27,37,13,18,13,12,0,4,1,3,6,2
+Patna Pirates,Telugu Titans,32,53,24,26,6,18,0,6,2,3,6,2
+Dabang Delhi,Puneri Paltan,27,31,11,13,9,12,2,2,5,4,6,2
+Patna Pirates,Bengaluru Bulls,41,43,22,29,13,10,4,2,2,2,6,2
+Patna Pirates,Bengal Warriors,29,27,16,18,10,7,2,0,1,2,6,1
+UP Yoddha,Tamil Thalaivas,24,46,14,19,9,19,0,6,1,2,6,2
+Jaipur Pink Panthers,Gujarat Fortune Giants,25,36,10,14,11,15,0,4,4,3,6,2
+U Mumba,Puneri Paltan,31,22,11,7,14,12,4,0,2,3,6,1
+UP Yoddha,Bengaluru Bulls,29,35,12,20,12,12,2,2,3,1,6,2
+Dabang Delhi,Gujarat Fortune Giants,38,45,26,25,6,13,4,4,2,3,6,2
+UP Yoddha,Bengal Warriors,30,30,19,19,8,7,2,2,1,2,6,0
+Jaipur Pink Panthers,Haryana Steelers,38,32,21,22,12,7,4,2,1,1,6,1
+UP Yoddha,Telugu Titans,26,26,11,13,13,11,2,2,0,0,6,0
+Haryana Steelers,Dabang Delhi,33,39,20,23,9,12,2,4,2,0,6,2
+UP Yoddha,Bengaluru Bulls,27,37,14,19,12,12,0,4,1,2,6,2
+U Mumba,Jaipur Pink Panthers,48,24,24,16,15,7,8,0,1,1,6,1
+Bengal Warriors,Telugu Titans,30,25,11,13,14,11,2,0,3,1,6,1
+Patna Pirates,Bengal Warriors,50,30,28,17,15,10,6,2,1,1,6,1
+U Mumba,Gujarat Fortune Giants,36,38,19,22,14,9,2,4,1,3,6,2
+Jaipur Pink Panthers,Dabang Delhi,29,40,22,27,7,8,0,4,0,1,6,2
+U Mumba,Haryana Steelers,31,35,19,20,10,12,2,2,0,1,6,2
+Puneri Paltan,Telugu Titans,25,28,12,14,9,10,2,4,2,0,6,2
+U Mumba,UP Yoddha,41,24,15,10,18,13,6,0,2,1,6,1
+Tamil Thalaivas,Haryana Steelers,32,32,17,18,11,9,2,2,2,3,6,0
+U Mumba,Bengaluru Bulls,32,29,14,21,11,4,4,2,3,2,6,1
+Patna Pirates,Dabang Delhi,38,35,23,24,9,9,4,2,2,0,6,1
+U Mumba,Tamil Thalaivas,36,22,14,15,17,5,4,0,1,2,6,1
+Gujarat Fortune Giants,Bengal Warriors,35,23,18,13,10,8,4,0,3,2,6,1
+Jaipur Pink Panthers,UP Yoddha,45,28,20,14,19,12,6,0,0,2,6,1
+Puneri Paltan,Bengal Warriors,22,26,13,12,6,10,0,2,3,2,6,2
+Gujarat Fortune Giants,Bengaluru Bulls,30,30,20,17,6,10,2,2,2,1,6,0
+Jaipur Pink Panthers,Bengaluru Bulls,32,45,21,28,9,9,2,6,0,2,6,2
+Gujarat Fortune Giants,UP Yoddha,37,32,17,17,12,11,4,2,4,2,6,1
+Tamil Thalaivas,Telugu Titans,27,23,15,15,9,7,2,0,1,1,6,1
+Gujarat Fortune Giants,Dabang Delhi,26,29,13,12,12,13,0,2,1,2,6,2
+Patna Pirates,Tamil Thalaivas,45,27,28,21,10,4,6,2,1,0,6,1
+Gujarat Fortune Giants,U Mumba,39,35,21,22,12,10,4,2,2,1,6,1
+Gujarat Fortune Giants,Haryana Steelers,40,31,20,20,15,8,4,0,1,3,6,1
+Bengaluru Bulls,Bengal Warriors,31,33,25,23,3,7,2,2,1,1,6,2
+Jaipur Pink Panthers,Puneri Paltan,30,30,15,14,12,9,2,2,1,5,6,0
+U Mumba,Dabang Delhi,39,23,18,15,15,5,4,0,2,3,6,1
+Bengaluru Bulls,Tamil Thalaivas,36,22,18,13,13,9,4,0,1,0,6,1
+Dabang Delhi,Haryana Steelers,27,34,15,16,9,13,0,2,3,3,6,2
+Bengaluru Bulls,Patna Pirates,32,35,22,18,7,10,2,2,1,5,6,2
+Tamil Thalaivas,Telugu Titans,31,25,13,11,15,10,2,0,1,4,6,1
+Bengaluru Bulls,UP Yoddha,37,27,20,14,13,12,4,0,0,1,6,1
+Haryana Steelers,Puneri Paltan,33,35,19,22,10,8,4,4,0,1,6,2
+Bengaluru Bulls,Telugu Titans,34,26,19,12,13,12,2,2,0,0,6,1
+Puneri Paltan,Gujarat Fortune Giants,20,35,6,13,12,14,0,4,2,4,6,2
+Bengaluru Bulls,Bengal Warriors,37,44,28,28,6,9,2,6,1,1,6,2
+Dabang Delhi,Jaipur Pink Panthers,48,35,31,29,9,4,6,2,2,0,6,1
+Tamil Thalaivas,Patna Pirates,35,35,25,22,8,7,2,4,0,2,6,0
+Dabang Delhi,U Mumba,34,41,20,27,8,10,4,4,2,0,6,2
+U Mumba,Gujarat Fortune Giants,36,26,14,15,17,8,4,0,1,3,6,1
+Dabang Delhi,Puneri Paltan,35,24,17,17,13,7,4,0,1,0,6,1
+Patna Pirates,Gujarat Fortune Giants,27,45,13,22,13,17,0,6,1,0,6,2
+Dabang Delhi,Telugu Titans,34,29,17,21,9,6,4,2,4,0,6,1
+Haryana Steelers,Bengal Warriors,35,33,19,24,10,6,2,2,4,1,6,1
+Dabang Delhi,Bengaluru Bulls,32,31,18,24,10,5,4,0,0,2,6,1
+UP Yoddha,Haryana Steelers,30,29,19,22,9,5,2,0,0,2,6,1
+Dabang Delhi,Tamil Thalaivas,37,33,18,24,10,4,4,2,5,3,6,1
+Telugu Titans,Gujarat Fortune Giants,27,29,16,20,6,5,2,2,3,2,6,2
+Patna Pirates,Puneri Paltan,53,36,33,28,12,6,6,0,2,2,6,1
+U Mumba,Bengal Warriors,31,20,15,10,13,8,2,0,1,2,6,1
+Telugu Titans,Jaipur Pink Panthers,36,26,21,19,10,7,4,0,1,0,6,1
+Tamil Thalaivas,Jaipur Pink Panthers,24,37,16,18,7,15,0,4,1,0,6,2
+Telugu Titans,Haryana Steelers,35,31,18,20,15,7,2,2,0,2,6,1
+Dabang Delhi,U Mumba,19,44,11,23,8,15,0,6,0,0,6,2
+Telugu Titans,UP Yoddha,20,27,11,13,9,11,0,2,0,1,6,2
+Haryana Steelers,Gujarat Fortune Giants,37,47,26,30,8,12,2,4,1,1,6,2
+Telugu Titans,Bengaluru Bulls,24,37,16,18,8,13,0,4,0,2,6,2
+Telugu Titans,Patna Pirates,41,36,22,24,14,10,4,2,1,0,6,1
+Jaipur Pink Panthers,Puneri Paltan,36,23,14,14,17,9,4,0,1,0,6,1
+Bengal Warriors,Tamil Thalaivas,28,21,16,11,10,10,2,0,0,0,6,1
+UP Yoddha,Tamil Thalaivas,25,25,16,13,6,8,0,0,3,4,6,0
+Jaipur Pink Panthers,U Mumba,35,35,18,22,10,10,4,2,3,1,6,0
+Patna Pirates,UP Yoddha,31,47,21,26,9,13,0,6,1,2,6,2
+Jaipur Pink Panthers,Gujarat Fortune Giants,29,34,16,18,9,13,2,2,2,1,6,2
+Bengaluru Bulls,Telugu Titans,44,28,22,16,12,9,6,2,4,1,6,1
+Jaipur Pink Panthers,Haryana Steelers,39,30,23,19,11,9,4,2,1,0,6,1
+Patna Pirates,Bengaluru Bulls,40,40,26,26,7,11,4,2,3,1,6,0
+Jaipur Pink Panthers,Gujarat Fortune Giants,31,33,18,21,8,8,2,4,3,0,6,2
+Jaipur Pink Panthers,Dabang Delhi,37,37,25,26,9,9,2,2,1,0,6,0
+Bengal Warriors,Tamil Thalaivas,27,24,17,18,10,6,0,0,0,0,6,1
+Puneri Paltan,Telugu Titans,35,20,14,15,16,5,4,0,1,0,6,1
+U Mumba,UP Yoddha,32,34,17,19,12,13,2,2,1,0,6,2
+Bengal Warriors,Patna Pirates,39,23,19,17,15,6,4,0,1,0,6,1
+Bengal Warriors,Dabang Delhi,31,37,18,23,9,6,2,4,2,4,6,2
+Haryana Steelers,Tamil Thalaivas,40,40,30,26,8,8,2,4,0,2,6,0
+Bengal Warriors,Telugu Titans,39,34,27,22,7,10,2,2,3,0,6,1
+Gujarat Fortune Giants,Patna Pirates,37,29,18,18,14,6,2,0,3,5,6,1
+Bengal Warriors,Bengaluru Bulls,37,31,24,19,7,6,4,2,2,4,6,1
+Jaipur Pink Panthers,Bengaluru Bulls,32,40,23,25,9,10,0,4,0,1,6,2
+Bengal Warriors,UP Yoddha,25,41,16,19,7,14,0,6,2,2,6,2
+U Mumba,UP Yoddha,29,34,18,12,11,18,0,2,0,2,6,2
+Dabang Delhi,Bengal Warriors,39,28,22,18,11,6,4,2,2,2,6,1
+Gujarat Fortune Giants,Bengaluru Bulls,29,41,21,22,6,13,2,4,0,2,6,2
+UP Yoddha,Dabang Delhi,45,33,26,22,10,4,6,2,3,5,6,1
+Gujarat Fortune Giants,UP Yoddha,38,31,22,17,10,10,4,2,2,2,6,1
+Bengaluru Bulls,Gujarat Fortune Giants,38,33,26,20,7,8,4,2,1,3,6,1
+Telugu Titans,U Mumba,25,31,15,16,10,10,0,4,0,1,7,2
+Bengaluru Bulls,Patna Pirates,34,32,17,18,15,12,2,2,0,0,7,1
+Bengaluru Bulls,Gujarat Fortune Giants,24,42,17,17,6,17,0,6,1,2,7,2
+Telugu Titans,Tamil Thalaivas,26,39,15,20,8,15,0,4,3,0,7,2
+U Mumba,Jaipur Pink Panthers,23,42,18,25,5,11,0,6,0,0,7,2
+Puneri Paltan,Haryana Steelers,24,34,14,15,10,14,0,4,0,1,7,2
+UP Yoddha,Bengal Warriors,17,48,10,24,5,14,0,8,2,2,7,2
+Telugu Titans,Dabang Delhi,33,34,27,24,6,7,0,2,0,1,7,2
+Dabang Delhi,Tamil Thalaivas,30,29,13,12,10,12,2,2,5,3,7,1
+UP Yoddha,Gujarat Fortune Giants,19,44,12,23,5,14,0,6,2,1,7,2
+Telugu Titans,Patna Pirates,22,34,10,12,9,16,0,4,3,2,7,2
+U Mumba,Puneri Paltan,33,23,15,12,12,11,4,0,2,0,7,1
+Jaipur Pink Panthers,Bengal Warriors,27,25,12,13,10,11,2,0,3,1,7,1
+Dabang Delhi,Haryana Steelers,41,21,22,16,9,4,4,0,6,1,7,1
+U Mumba,Bengaluru Bulls,26,30,15,15,6,8,2,2,3,5,7,2
+Tamil Thalaivas,Patna Pirates,23,24,9,7,11,13,0,0,3,4,7,2
+Bengal Warriors,Puneri Paltan,43,23,22,13,12,9,6,0,3,1,7,1
+Haryana Steelers,Jaipur Pink Panthers,21,37,12,17,9,14,0,4,0,2,7,2
+U Mumba,UP Yoddha,23,27,10,10,11,13,0,2,2,2,7,2
+Gujarat Fortune Giants,Dabang Delhi,31,26,17,13,10,9,2,2,2,2,7,1
+Telugu Titans,UP Yoddha,20,20,9,5,10,13,0,0,1,2,7,0
+U Mumba,Gujarat Fortune Giants,32,20,15,10,11,8,4,0,2,2,7,1
+Patna Pirates,Jaipur Pink Panthers,21,34,12,12,7,17,0,4,2,1,7,2
+Bengal Warriors,Bengaluru Bulls,42,43,29,31,6,8,4,4,3,0,7,2
+Haryana Steelers,Tamil Thalaivas,28,35,16,20,10,10,2,4,0,1,7,2
+Patna Pirates,Puneri Paltan,20,41,11,19,7,17,2,4,0,1,7,2
+Dabang Delhi,Jaipur Pink Panthers,35,24,9,8,5,2,2,0,0,0,7,1
+Gujarat Fortune Giants,Puneri Paltan,31,33,21,15,8,13,2,2,0,3,7,2
+UP Yoddha,Tamil Thalaivas,28,28,13,13,12,10,2,2,1,3,7,0
+Patna Pirates,Haryana Steelers,26,35,18,19,6,12,2,4,0,0,7,2
+Telugu Titans,Bengaluru Bulls,26,47,16,21,10,19,0,4,0,3,7,2
+Bengal Warriors,U Mumba,32,30,17,13,10,10,4,4,1,3,7,1
+Patna Pirates,UP Yoddha,41,20,17,14,16,5,6,0,2,1,7,1
+Gujarat Fortune Giants,Tamil Thalaivas,28,34,14,15,8,12,2,4,4,3,7,2
+Puneri Paltan,Dabang Delhi,30,32,22,19,7,9,0,2,1,2,7,2
+Bengaluru Bulls,Haryana Steelers,30,33,17,18,9,12,2,2,2,1,7,2
+Gujarat Fortune Giants,Telugu Titans,24,30,15,11,8,16,0,2,1,1,7,2
+Bengal Warriors,Telugu Titans,29,29,13,13,11,10,2,2,3,4,7,0
+UP Yoddha,Bengaluru Bulls,35,33,16,22,15,10,4,0,0,1,7,1
+UP Yoddha,Haryana Steelers,33,36,21,20,10,12,2,4,0,0,7,2
+Gujarat Fortune Giants,Bengal Warriors,26,28,15,16,11,7,0,2,0,3,7,2
+Jaipur Pink Panthers,Puneri Paltan,33,25,16,16,13,8,4,0,0,1,7,1
+U Mumba,Patna Pirates,34,30,24,17,7,8,2,2,1,3,7,1
+Gujarat Fortune Giants,Jaipur Pink Panthers,19,22,8,9,9,13,0,0,2,0,7,2
+Tamil Thalaivas,Bengaluru Bulls,21,32,15,17,6,10,0,4,0,1,7,2
+Bengal Warriors,Dabang Delhi,30,30,19,18,7,7,2,2,2,3,7,0
+Haryana Steelers,Telugu Titans,29,40,22,24,3,10,0,4,4,2,7,2
+Tamil Thalaivas,Puneri Paltan,31,31,18,16,10,12,2,2,1,1,7,0
+U Mumba,Haryana Steelers,27,30,14,16,10,9,2,2,1,3,7,2
+UP Yoddha,Jaipur Pink Panthers,31,24,18,14,11,9,2,0,0,1,7,1
+Puneri Paltan,Bengaluru Bulls,31,23,13,16,16,6,2,0,0,1,7,1
+Tamil Thalaivas,Jaipur Pink Panthers,26,28,16,14,6,11,2,0,2,3,7,2
+Bengal Warriors,Patna Pirates,35,26,20,18,11,6,4,2,0,0,7,1
+Gujarat Fortune Giants,Patna Pirates,29,26,16,14,11,9,2,2,0,1,7,1
+Tamil Thalaivas,U Mumba,24,29,14,14,6,11,0,2,4,2,7,2
+Dabang Delhi,Bengaluru Bulls,33,31,21,19,10,10,2,2,0,0,7,1
+Jaipur Pink Panthers,Telugu Titans,21,24,6,9,14,15,0,0,1,0,7,2
+Jaipur Pink Panthers,Bengaluru Bulls,30,41,13,21,12,16,2,4,3,0,7,2
+Dabang Delhi,UP Yoddha,36,27,20,18,10,9,4,0,2,0,7,1
+Bengal Warriors,Haryana Steelers,33,36,24,23,5,8,2,2,2,3,7,2
+UP Yoddha,Puneri Paltan,35,30,20,19,10,8,4,2,1,1,7,1
+Gujarat Fortune Giants,Haryana Steelers,25,41,16,20,8,14,0,6,1,1,7,2
+Dabang Delhi,U Mumba,40,24,18,14,16,10,6,0,0,0,7,1
+Bengal Warriors,Tamil Thalaivas,35,26,21,20,10,6,4,0,0,0,7,1
+Telugu Titans,Puneri Paltan,27,34,10,15,17,14,0,2,0,3,7,2
+Dabang Delhi,Patna Pirates,38,35,23,24,11,7,4,4,0,0,7,1
+Bengaluru Bulls,Gujarat Fortune Giants,23,32,9,11,13,13,0,4,1,4,7,2
+U Mumba,Jaipur Pink Panthers,47,21,22,15,15,5,8,0,2,1,7,1
+UP Yoddha,Bengal Warriors,32,29,12,15,16,12,2,0,2,2,7,1
+Bengaluru Bulls,Tamil Thalaivas,33,27,22,14,8,12,2,0,1,1,7,1
+Puneri Paltan,Haryana Steelers,27,41,18,21,8,14,0,4,1,2,7,2
+Telugu Titans,Tamil Thalaivas,35,30,21,22,9,8,2,0,3,0,7,1
+Jaipur Pink Panthers,Dabang Delhi,44,46,22,28,14,10,4,4,4,4,7,2
+Bengaluru Bulls,Patna Pirates,40,39,24,21,13,15,2,2,1,1,7,1
+Puneri Paltan,U Mumba,33,33,12,18,12,11,4,2,5,2,7,0
+Patna Pirates,UP Yoddha,29,41,19,20,8,14,2,6,0,1,7,2
+Bengaluru Bulls,Telugu Titans,40,39,28,29,7,8,4,2,1,0,7,1
+Bengal Warriors,Gujarat Fortune Giants,25,25,17,16,8,8,0,0,0,1,7,0
+Dabang Delhi,Haryana Steelers,25,47,19,26,5,14,0,6,1,1,7,2
+Dabang Delhi,Tamil Thalaivas,50,34,32,27,8,3,6,0,4,4,7,1
+Bengal Warriors,Puneri Paltan,42,39,27,21,10,12,4,4,1,2,7,1
+UP Yoddha,Gujarat Fortune Giants,33,26,16,16,12,7,4,2,1,1,7,1
+Tamil Thalaivas,Patna Pirates,25,51,18,28,6,14,0,8,1,1,7,2
+Telugu Titans,U Mumba,27,41,15,18,9,15,2,6,1,2,7,2
+Haryana Steelers,Jaipur Pink Panthers,32,32,17,16,13,10,2,4,0,2,7,0
+Bengal Warriors,U Mumba,29,26,16,20,10,6,2,0,1,0,7,1
+Jaipur Pink Panthers,Patna Pirates,33,36,23,23,9,10,0,2,1,1,7,2
+Bengal Warriors,Bengaluru Bulls,42,40,25,28,12,7,4,2,1,3,7,1
+Puneri Paltan,Gujarat Fortune Giants,43,33,20,17,18,8,4,2,1,6,7,1
+Tamil Thalaivas,Haryana Steelers,35,43,22,23,9,15,2,4,2,1,7,2
+Dabang Delhi,Gujarat Fortune Giants,34,30,19,19,10,6,4,2,1,3,7,1
+Puneri Paltan,Patna Pirates,33,55,25,26,8,18,0,8,0,3,7,2
+Jaipur Pink Panthers,UP Yoddha,32,38,20,23,11,8,0,4,1,3,7,2
+Telugu Titans,Dabang Delhi,29,37,19,20,9,11,0,4,1,2,7,2
+U Mumba,UP Yoddha,39,36,20,22,11,9,4,2,4,3,7,1
+Puneri Paltan,Tamil Thalaivas,36,36,19,26,11,6,4,0,2,0,7,0
+Bengal Warriors,Haryana Steelers,48,36,30,29,11,5,6,2,1,0,7,1
+Telugu Titans,Patna Pirates,42,42,27,29,8,7,4,4,3,2,7,0
+Puneri Paltan,Bengaluru Bulls,42,38,18,29,17,7,4,2,3,0,7,1
+Jaipur Pink Panthers,Gujarat Fortune Giants,28,28,6,9,20,15,2,2,0,2,7,0
+UP Yoddha,Tamil Thalaivas,42,22,19,12,14,7,6,2,3,1,7,1
+U Mumba,Gujarat Fortune Giants,31,25,15,15,10,5,4,2,2,3,7,1
+Jaipur Pink Panthers,Bengal Warriors,40,41,27,26,8,10,2,4,3,1,7,2
+Patna Pirates,Haryana Steelers,34,39,27,24,6,8,0,6,1,1,7,2
+Dabang Delhi,Bengaluru Bulls,39,39,20,23,12,10,4,2,3,4,7,0
+Telugu Titans,Bengal Warriors,39,40,29,24,7,8,2,4,1,4,7,2
+Jaipur Pink Panthers,Puneri Paltan,43,34,29,23,10,8,4,2,0,1,7,1
+Patna Pirates,Dabang Delhi,39,43,27,31,6,8,4,2,2,2,7,2
+U Mumba,Bengaluru Bulls,33,35,23,19,7,10,2,4,1,2,7,2
+Jaipur Pink Panthers,Telugu Titans,31,51,22,33,7,12,0,6,2,0,7,2
+Haryana Steelers,UP Yoddha,30,37,18,20,8,12,2,2,2,3,7,2
+Gujarat Fortune Giants,Tamil Thalaivas,50,21,27,13,16,7,6,0,1,1,7,1
+Puneri Paltan,Dabang Delhi,40,60,27,34,13,13,0,8,0,5,7,2
+Haryana Steelers,Gujarat Fortune Giants,38,37,23,18,11,13,2,2,2,4,7,1
+Bengal Warriors,Dabang Delhi,42,33,28,23,8,6,6,2,0,2,7,1
+Tamil Thalaivas,U Mumba,32,36,18,21,9,8,2,2,3,5,7,2
